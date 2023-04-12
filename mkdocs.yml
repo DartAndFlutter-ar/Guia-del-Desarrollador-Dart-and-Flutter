@@ -2,13 +2,13 @@
 
 # Project information
 site_name: Dart and Flutter Developers Guide
-site_url: https://dartandflutter.ar
+site_url: https://slarrauri.github.io/Dart-And-Flutter-Developer-Guide/
 site_author: Sebastian Larrauri
 site_description: >-
   Una guía detallada para el desarrollo de  aplicaciones Dart y Flutter. 
 
 # Repository
-repo_name: slarrauri/Dart-And-Flutter-Developer-Guide
+repo_name: Dart-And-Flutter-Developer-Guide
 repo_url: https://github.com/slarrauri/Dart-And-Flutter-Developer-Guide
 
 # Copyright
@@ -139,7 +139,8 @@ nav:
     - Dartpad: dart/dartpad.md
     - Tipos de Variables: dart/tipos_de_variables.md
     - Tipo Dynamic: dart/tipo_dynamic.md
-    - Tipo Maps: dart/tipo_maps.md
+    - Tipo Map: dart/tipo_maps.md
+    - Tipo List: dart/tipo_list.md
   - Flutter:
     - Que es Flutter: flutter/que_es_flutter.md
   - Atajos:
