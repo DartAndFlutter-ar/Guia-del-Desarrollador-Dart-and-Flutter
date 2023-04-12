@@ -139,6 +139,7 @@ nav:
     - Dartpad: dart/dartpad.md
     - Tipos de Variables: dart/tipos_de_variables.md
     - Tipo Dynamic: dart/tipo_dynamic.md
+    - Tipo Maps: dart/tipo_maps.md
   - Flutter:
     - Que es Flutter: flutter/que_es_flutter.md
   - Atajos:
