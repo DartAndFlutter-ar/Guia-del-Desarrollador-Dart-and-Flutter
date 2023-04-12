@@ -54,8 +54,12 @@ void main() { // (1)
 
 3. La variable pokemon es de tipo String y contiene el valor 'Ditto'. La variable hp es de tipo int y contiene el valor 100. La variable isAlive es de tipo bool y contiene el valor true. La variable abilities es de tipo List<String> y contiene una lista con un único elemento: 'impostor'. La variable sprites es de tipo List<String> y contiene una lista con dos elementos: 'ditto/front.png' y 'ditto/back.png'.
 
-4. La sección siguiente del código utiliza la variable errorMessage de tipo dynamic para demostrar que su tipo puede cambiar dinamicamente. La variable errorMessage se inicializa con el valor 'Hola' y luego se le asignan varios valores diferentes, incluidos un valor booleano, una lista, un conjunto, una función y el valor null.
+4. La sección siguiente del código utiliza la variable errorMessage de tipo dynamic para demostrar que su tipo puede cambiar dinámicamente. La variable errorMessage se inicializa con el valor 'Hola' y luego se le asignan varios valores diferentes, incluidos un valor booleano, una lista, un conjunto, una función y el valor null.
 
 5. Finalmente, la última línea del código utiliza la función print() para imprimir todas las variables declaradas anteriormente en la consola en un formato de cadena de varias líneas utilizando una sintaxis especial que permite insertar variables en la cadena utilizando $ y los corchetes {}.
 
 [Abrir en DartPad](https://dartpad.dev/?id=53ea3c03a30143a8d995ee8dc5c98cc8){ .md-button .md-button--primary target=_blank}
+
+!!! Abstract "Resumiendo"
+
+    Los diferentes tipos de variables en Dart se utilizan para almacenar diferentes tipos de datos, como números enteros, números decimales, texto, valores booleanos, colecciones de elementos, etc. La elección del tipo de variable adecuado dependerá del tipo de dato que se va a almacenar en la variable y del uso que se le va a dar a dicha variable en el programa.

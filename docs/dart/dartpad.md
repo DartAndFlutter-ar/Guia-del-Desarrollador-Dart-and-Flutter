@@ -11,3 +11,7 @@ Una de las características más útiles de DartPad es que permite compartir el 
 DartPad es una herramienta en línea gratuita que permite a los desarrolladores escribir, probar y compartir código Dart de forma rápida y sencilla, sin tener que instalar un entorno de desarrollo completo. Es una herramienta muy útil para experimentar con el lenguaje de programación Dart y aprender sus características principales.
 
 [Abrir DartPad](https://dartpad.dev/){ .md-button .md-button--primary target=_blank}
+
+!!! Abstract "Resumiendo"
+
+    DartPad es una herramienta en línea gratuita que permite a los desarrolladores escribir, probar y compartir código Dart de forma rápida y sencilla, sin tener que instalar un entorno de desarrollo completo. Es una herramienta muy útil para experimentar con el lenguaje de programación Dart y aprender sus características principales.

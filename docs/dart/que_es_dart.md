@@ -10,4 +10,6 @@ Es importante mencionar que Dart es el lenguaje de programación que utiliza Flu
 
 Flutter utiliza Dart como su lenguaje de programación principal, lo que permite a los desarrolladores crear aplicaciones móviles con una interfaz de usuario atractiva y altamente personalizable. La combinación de Dart y Flutter permite la creación de aplicaciones rápidas, eficientes y con un alto rendimiento, lo que las convierte en una opción popular entre los desarrolladores de aplicaciones móviles.
 
-Dart es un lenguaje de programación moderno y versátil que se puede utilizar para el desarrollo de una amplia gama de aplicaciones.
+!!! Abstract "Resumiendo"
+
+    Dart es un lenguaje de programación moderno y versátil que se puede utilizar para el desarrollo de una amplia gama de aplicaciones.

@@ -43,18 +43,18 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/brightness-4
+        icon: material/brightness-7
         name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
   font:
     text: Roboto
     code: Roboto Mono
@@ -134,9 +134,11 @@ nav:
   - Dart:
     - Que es Dart: dart/que_es_dart.md
     - Características Dart: dart/caracteristicas.md
-    - Hola Mundo (La funcion main()): dart/main.md
+    - Ejecución Vs Compilación: dart/ejecucion_compilacion.md
+    - Hola Mundo (La función main()): dart/main.md
     - Dartpad: dart/dartpad.md
     - Tipos de Variables: dart/tipos_de_variables.md
+    - Tipo Dynamic: dart/tipo_dynamic.md
   - Flutter:
     - Que es Flutter: flutter/que_es_flutter.md
   - Atajos:
@@ -150,5 +152,5 @@ nav:
   # Git
   # Docker
   # SOLID CLEAN CODE
-  # Packages y Plugins Utiles
-  # Herramientas Utiles
+  # Packages y Plugins Útiles
+  # Herramientas Útiles

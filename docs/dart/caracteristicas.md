@@ -15,3 +15,7 @@ Las características principales de Dart incluyen:
 - **Interoperabilidad con JavaScript**: Dart se puede compilar en JavaScript, lo que significa que los desarrolladores pueden utilizar el mismo código Dart tanto en el lado del cliente como en el lado del servidor.
 
 - **Herramientas de desarrollo**: Dart viene con un conjunto de herramientas de desarrollo, incluyendo un compilador, un depurador y un editor de código. Estas herramientas permiten a los desarrolladores escribir y depurar código de manera eficiente.
+
+!!! Abstract "Resumiendo"
+
+    Dart es un lenguaje de programación moderno y versátil que admite una amplia gama de características, incluyendo tipado opcional, programación orientada a objetos, funciones de orden superior, colecciones, asincronía e Interoperabilidad con JavaScript, lo que lo hace una excelente opción para el desarrollo de aplicaciones web y móviles.
