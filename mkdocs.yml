@@ -133,6 +133,7 @@ nav:
   - Home: index.md
   - Dart:
     - Que es Dart: dart/que_es_dart.md
+    - Características Dart: dart/caracteristicas.md
   - Flutter:
     - Que es Flutter: flutter/que_es_flutter.md
   - Atajos:
