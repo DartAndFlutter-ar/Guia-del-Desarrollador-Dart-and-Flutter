@@ -128,6 +128,32 @@ Map<String, int> nuevoMapa = miMapa.map((clave, valor) {
 print(miMapa.toString()); // {Manzanas: 12, Plátanos: 14, Uvas: 3}
 ```
 
+## Practiquemos
+
+Supongamos que tienes una lista de estudiantes con sus respectivas edades y quieres crear un mapa que muestre el nombre de cada estudiante junto con su edad. Puedes hacer esto utilizando el constructor fromIterables del Map.
+
+```dart
+void main() {
+  List<String> estudiantes = ['Juan', 'María', 'Pedro', 'Ana'];
+  List<int> edades = [20, 21, 19, 22];
+
+  Map<String, int> mapaEstudiantes = Map.fromIterables(estudiantes, edades);
+
+  mapaEstudiantes.forEach((nombre, edad) {
+    print('$nombre tiene $edad años.');
+  });
+}
+// Imprime
+// Juan tiene 20 años.
+// María tiene 21 años.
+// Pedro tiene 19 años.
+// Ana tiene 22 años.
+```
+
+En este ejemplo, estamos utilizando el constructor fromIterables del Map para crear un nuevo mapa a partir de las dos listas: una lista de nombres de estudiantes y una lista de edades. El constructor fromIterables crea un mapa en el que los elementos de la primera lista son las claves y los elementos de la segunda lista son los valores correspondientes. Luego, utilizamos el método forEach del Map para imprimir los resultados.
+
+[Abrir en DartPad](https://dartpad.dev/?id=1579819ce8a09e080182bef54ad4ed37){ .md-button .md-button--primary target=_blank}
+
 !!! Abstract "Resumiendo"
 
     Los Map en Dart son una estructura de datos muy útil para almacenar y manipular pares de valores clave-valor. Los elementos de un Map se pueden acceder y modificar mediante la clave correspondiente, y Dart proporciona una gran cantidad de métodos útiles para trabajar con Mapas.
