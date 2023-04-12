@@ -8,6 +8,8 @@ void main() {
 }
 ```
 
+[Abrir en DartPad](https://dartpad.dev/?id=293dbdf3681d6ce9619e56fd96bd551f){ .md-button .md-button--primary target=_blank}
+
 El programa consta de dos partes principales:
 
 1. **La función main()**: Esta es la función principal del programa y es el punto de entrada para la ejecución del programa. En este caso, la función no recibe ningún argumento y no devuelve ningún valor, por lo que su tipo de retorno se establece como `void`.
