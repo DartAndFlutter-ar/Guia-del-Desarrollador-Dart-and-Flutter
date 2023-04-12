@@ -12,8 +12,8 @@ Dart And Flutter Developer Guide está diseñado para ser un recurso completo pa
 
 2. Install Mkdocs-Material
 
-Run 'pip install -e mkdocs-material'
+    Run 'pip install -e mkdocs-material'
 
 3. Install Dependencies
 
-Generally 'pip install mkdocs-minify-plugin'
+    Generally 'pip install mkdocs-minify-plugin'
