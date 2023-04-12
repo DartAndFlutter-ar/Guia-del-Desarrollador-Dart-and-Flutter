@@ -3,7 +3,7 @@
 # Project information
 site_name: Dart and Flutter Developers Guide
 site_url: https://dartandflutter-ar.github.io/Dart-And-Flutter-Developer-Guide/
-site_author: Sebastian Larrauri
+site_author: Sebastian Larrauri - Jose Luis Reartes
 site_description: >-
   Una guía detallada para el desarrollo de  aplicaciones Dart y Flutter. 
 
@@ -12,7 +12,7 @@ repo_name: Dart-And-Flutter-Developer-Guide
 repo_url: https://dartandflutter-ar.github.io/Dart-And-Flutter-Developer-Guide/
 
 # Copyright
-copyright: Copyright &copy; 2023 Sebastian Larrauri
+copyright: Copyright &copy; 2023 Sebastian Larrauri - Jose Luis Reeartes
 
 # Configuration
 theme:
@@ -58,7 +58,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: assets/logo.png
+  logo: assets/logo.png 
   icon:
     logo: logo
 
@@ -67,7 +68,7 @@ plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
-      minify_html: true
+      minify_html: true 
 
 # Hooks
 hooks:
