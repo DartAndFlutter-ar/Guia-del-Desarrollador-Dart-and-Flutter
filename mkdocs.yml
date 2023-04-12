@@ -134,6 +134,9 @@ nav:
   - Dart:
     - Que es Dart: dart/que_es_dart.md
     - Características Dart: dart/caracteristicas.md
+    - Hola Mundo (La funcion main()): dart/main.md
+    - Dartpad: dart/dartpad.md
+    - Tipos de Variables: dart/tipos_de_variables.md
   - Flutter:
     - Que es Flutter: flutter/que_es_flutter.md
   - Atajos:
@@ -147,3 +150,5 @@ nav:
   # Git
   # Docker
   # SOLID CLEAN CODE
+  # Packages y Plugins Utiles
+  # Herramientas Utiles
