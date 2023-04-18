@@ -17,8 +17,19 @@ La **Guía del Desarrollador Dart and Flutter** está diseñada para ser un recu
 
 2. Install Mkdocs-Material
 
-    Run 'pip install -e mkdocs-material'
+    Run 'pip install -e mkdocs-material' or Run 'pip3 install -e mkdocs-material'
 
 3. Install Dependencies
 
-    Generally 'pip install mkdocs-minify-plugin' -->
+    Generally 'pip install mkdocs-minify-plugin' 
+
+Para utilizar Git Submodules, sigue estos pasos:
+
+Abre la línea de comandos en el directorio raíz de tu proyecto principal (el que contendrá el submódulo).
+Agrega el submódulo utilizando el comando git submodule add <URL del repositorio> , donde <URL del repositorio> es la dirección URL del repositorio que quieres agregar como submódulo.
+Git clonará el repositorio en un subdirectorio dentro del directorio principal.
+Asegúrate de confirmar los cambios utilizando el comando git commit -m "Agregando submódulo <nombre del submódulo>".
+Cuando alguien más clone tu proyecto principal, deberá ejecutar el comando git submodule update --init para descargar el submódulo.
+Una vez agregado el submódulo, puedes trabajar con él de la misma manera que con cualquier otro repositorio de Git. Para más información sobre cómo trabajar con submódulos, puedes consultar la documentación oficial de Git.
+
+-->
