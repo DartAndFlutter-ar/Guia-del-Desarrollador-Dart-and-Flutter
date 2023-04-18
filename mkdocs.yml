@@ -132,6 +132,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
+  - Inicio: inicio/index.md
   - Dart:
     - Que es Dart: dart/que_es_dart.md
     - Características Dart: dart/caracteristicas.md
@@ -144,6 +145,12 @@ nav:
     - Tipo List: dart/tipo_list.md
   - Flutter:
     - Que es Flutter: flutter/que_es_flutter.md
+  - Docker: 
+    - docker/index.md
+    - Atajos: docker/atajos.md
+    - Docker básico:
+      - Que es Docker: docker/que_es_docker.md
+      - Hola Mundo en Docker: docker/basico/hola_mundo.md
   - Atajos:
     - atajos/index.md
     - Dart: atajos/dart.md

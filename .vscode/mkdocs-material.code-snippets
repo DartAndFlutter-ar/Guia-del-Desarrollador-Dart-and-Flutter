@@ -15,4 +15,35 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
+
+
+	"Resumiendo": {
+		"prefix": "Resumiendo",
+		"body": [
+		  "!!! Abstract \"Resumiendo\"",
+		  "",
+		  "    $1"
+		],
+		"description": "Resumiendo"
+	  },
+
+	  "Web": {
+		"prefix": "Web",
+		"body": [
+		  "!!! Info \"Web\"",
+		  "",
+		  "    $1"
+		],
+		"description": "Web"
+	  },
+
+	  "Link Target Blank": {
+		"prefix": "Link Target Blank",
+		"body": [
+		  "[${1:text}](${2:url}){target=_blank}"
+		],
+		"description": "Link Target Blank"
+	  }
+
+
 }

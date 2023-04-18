@@ -17,19 +17,3 @@ Dart And Flutter Developer Guide está diseñado para ser un recurso completo pa
 3. Install Dependencies
 
     Generally 'pip install mkdocs-minify-plugin'
-
-## Ayuda Documentación
-
-Botones
-
-[Abrir en DartPad](https://dartpad.dev/?id=1579819ce8a09e080182bef54ad4ed37){ .md-button .md-button--primary target=_blank}
-
-[text](#){ .md-button .md-button--primary target=_blank}
-
-[text](#){ .md-button}
-
-Enlaces Nueva Ventana
-
-[text](#){target=_blank}
-
-!!! Abstract "Resumiendo"
