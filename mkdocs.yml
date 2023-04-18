@@ -1,15 +1,15 @@
 # Copyright (c) 2016-2023 Martin Donath <martin.donath@squidfunk.com>
 
 # Project information
-site_name: Dart and Flutter Developers Guide
-site_url: https://dartandflutter-ar.github.io/Dart-And-Flutter-Developer-Guide/
+site_name: Guia del Desarrollador Dart and Flutter
+site_url: https://dartandflutter.ar
 site_author: Sebastian Larrauri - Jose Luis Reartes
 site_description: >-
   Una guía detallada para el desarrollo de  aplicaciones Dart y Flutter. 
 
 # Repository
-repo_name: Dart-And-Flutter-Developer-Guide
-repo_url: https://dartandflutter-ar.github.io/Dart-And-Flutter-Developer-Guide/
+repo_name: Guia-del-Desarrollador-Dart-and-Flutter
+repo_url: https://github.com/DartAndFlutter-ar/Guia-del-Desarrollador-Dart-and-Flutter
 
 # Copyright
 copyright: Copyright &copy; 2023 Sebastian Larrauri - Jose Luis Reeartes
@@ -128,7 +128,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-
+ 
 # Page tree
 nav:
   - Home: index.md
