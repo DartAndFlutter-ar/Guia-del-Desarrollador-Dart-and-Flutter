@@ -14,5 +14,7 @@
         "sublist",
         "tipado",
         "Tipado"
-    ]
+    ],
+    "editor.fontSize": 17,
+    "window.zoomLevel": 1.1
 }
