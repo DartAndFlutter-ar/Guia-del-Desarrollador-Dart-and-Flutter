@@ -114,8 +114,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
+      user: DartAndFlutter-ar
+      repo: Guia-del-Desarrollador-Dart-and-Flutter
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:
