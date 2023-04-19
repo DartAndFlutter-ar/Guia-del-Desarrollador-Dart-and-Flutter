@@ -3,6 +3,8 @@
 En esta sección veremos sobre:  
 
 - Estructura de Directorios y Archivos
+- Hola Mundo
+- const
 - Stateful y Stateless Widgets
 - Scaffold
 - FloatingActionButtons
