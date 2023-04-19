@@ -1,6 +1,6 @@
-# Primeros Pasos
+# Contenido Primeros Pasos
 
-En esta sección veremos sobre: 
+En esta sección veremos sobre:  
 
 - Estructura de Directorios y Archivos
 - Stateful y Stateless Widgets
