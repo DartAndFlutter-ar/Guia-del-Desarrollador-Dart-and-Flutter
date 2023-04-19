@@ -20,8 +20,8 @@ theme:
   custom_dir: material/.overrides
   features:
     - announce.dismiss
-    - content.action.edit
-    - content.action.view
+    # - content.action.edit
+    # - content.action.view
     - content.code.annotate
     - content.code.copy
     # - content.tabs.link
@@ -78,14 +78,14 @@ hooks:
 extra:
   annotate:
     json: [.s2]
-  analytics:
-    provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/slarrauri
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/slarrauri
+  # analytics:
+  #   provider: google
+  #   property: !ENV GOOGLE_ANALYTICS_KEY
+  # social:
+  #   - icon: fontawesome/brands/github
+  #     link: https://github.com/slarrauri
+  #   - icon: fontawesome/brands/twitter
+  #     link: https://twitter.com/slarrauri
 
 # Extensions
 markdown_extensions:
@@ -145,17 +145,21 @@ nav:
     - Tipo List: dart/tipo_list.md
   - Flutter:
     - Que es Flutter: flutter/que_es_flutter.md
-  - Docker: 
-    - docker/index.md
-    - Atajos: docker/atajos.md
-    - Docker básico:
-      - Que es Docker: docker/que_es_docker.md
-      - Hola Mundo en Docker: docker/basico/hola_mundo.md
-  - Atajos:
-    - atajos/index.md
-    - Dart: atajos/dart.md
-    - Flutter: atajos/flutter.md
-  - Créditos: creditos/index.md
+    - Primeros Pasos: 
+      - Indice: flutter/primeros_pasos/indice.md
+      - Estructura: flutter/primeros_pasos/directorios_y_archivos.md
+      - Hola Mundo: flutter/primeros_pasos/hola_mundo.md
+  # - Docker: 
+  #   - docker/index.md
+  #   - Atajos: docker/atajos.md
+  #   - Docker básico:
+  #     - Que es Docker: docker/que_es_docker.md
+  #     - Hola Mundo en Docker: docker/basico/hola_mundo.md
+  # - Atajos:
+  #   - atajos/index.md
+  #   - Dart: atajos/dart.md
+  #   - Flutter: atajos/flutter.md
+  # - Créditos: creditos/index.md
   
   # TODO
   # Programación las Bases
